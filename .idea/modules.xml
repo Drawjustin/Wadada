@@ -2,9 +2,7 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
-
       <module fileurl="file://$PROJECT_DIR$/.idea/Wadada.iml" filepath="$PROJECT_DIR$/.idea/Wadada.iml" />
-
     </modules>
   </component>
 </project>
